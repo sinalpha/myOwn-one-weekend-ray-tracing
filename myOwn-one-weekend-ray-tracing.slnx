@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="myOwn-one-weekend-ray-tracing.vcxproj" />
+  <Project Path="myOwn-one-weekend-ray-tracing.vcxproj" Id="065478bb-9eea-4698-93c5-f83da86b5c71" />
 </Solution>

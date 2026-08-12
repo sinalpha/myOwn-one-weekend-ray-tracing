@@ -2,8 +2,8 @@
 
 #include "vec3.h"
 
-#include <iostream>
-#include <fstream>
+
+
 
 using color = vec3;
 

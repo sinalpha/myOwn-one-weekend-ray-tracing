@@ -9,4 +9,8 @@ That's because our eyes are naturally doing what we want our ray tracer to do: [
     <figcaption>Result: a ray traced image.</figcaption>
     <img src="img/normal-colored.png" width="166px" height="100px">
     <figcaption>Result: rednering a sphere with normal colored.</figcaption>
+    <img src="img/anti-aliasinged-image.png" width="166px" height="100px">
+    <figcaption>Result: anti-aliasinged-image.</figcaption>
+    <img src="img/diffuse-material.png" width="166px" height="100px">
+    <figcaption>Result: PBR with some noises.</figcaption>
 </figure>
